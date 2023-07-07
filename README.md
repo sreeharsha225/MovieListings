@@ -1,6 +1,6 @@
 # Node Should be Installed
 
-## To tun the app u should Install some dependencies.
+## To run the app we should Install some dependencies.
 
 For run
 
